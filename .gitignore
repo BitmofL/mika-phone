@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+kivy_env/
+
+# --- Модель Vosk (скачивается отдельно) ---
+vosk-model-*/
+
+# --- Реальные настройки ---
+settings.json
+commands/token_store.json
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

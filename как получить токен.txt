@@ -1,0 +1,1 @@
+https://oauth.yandex.ru/authorize?response_type=code&client_id=1675d8116ebc4ff1b308019f8b774f0b
